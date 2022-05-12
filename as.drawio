@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-12T06:24:51.728Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="Jkjgq9mrwrEcdYbTw4IS" version="18.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-12T14:05:19.701Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="hecEUKEnwXOFxbvDYaDf" version="18.0.2" type="github">
   <diagram id="qcw5w06dxHw6riU8rMZ6" name="第 1 页">
-    <mxGraphModel dx="785" dy="513" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="985" dy="513" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -166,6 +166,84 @@
         </mxCell>
         <mxCell id="fodWNSY7NhRpLWuz4Wl4-54" value="响应信息" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="450" y="1494" width="86" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="fodWNSY7NhRpLWuz4Wl4-55" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="62" y="2025.5" width="173" height="247" as="geometry" />
+        </mxCell>
+        <mxCell id="fodWNSY7NhRpLWuz4Wl4-56" value="操作" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="62" y="2028.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fodWNSY7NhRpLWuz4Wl4-57" value="参数1及其描述文本" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="65" y="2058.5" width="165" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fodWNSY7NhRpLWuz4Wl4-58" value="参数2及其描述文本" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="65" y="2108.5" width="165" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fodWNSY7NhRpLWuz4Wl4-59" value="参数n及其描述文本" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="67" y="2208.5" width="165" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fodWNSY7NhRpLWuz4Wl4-60" value="..." style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="65.5" y="2158.5" width="165" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fodWNSY7NhRpLWuz4Wl4-61" value="分类模型" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.nfvo;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="267" y="2104.5" width="74" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="fodWNSY7NhRpLWuz4Wl4-62" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=15;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="233.2500000000001" y="2160.5" as="sourcePoint" />
+            <mxPoint x="267" y="2161" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fodWNSY7NhRpLWuz4Wl4-63" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=15;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="335" y="2162.5" as="sourcePoint" />
+            <mxPoint x="368.75" y="2163" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fodWNSY7NhRpLWuz4Wl4-64" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="370" y="2060" width="209" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="fodWNSY7NhRpLWuz4Wl4-65" value="操作" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="373" y="2068.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fodWNSY7NhRpLWuz4Wl4-66" value="(参数1，参数n，Require)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="371" y="2106.5" width="206" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fodWNSY7NhRpLWuz4Wl4-67" value="(参数n，参数1，Require)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="371" y="2196.5" width="206" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fodWNSY7NhRpLWuz4Wl4-68" value="(...)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="371" y="2146.5" width="206" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fodWNSY7NhRpLWuz4Wl4-69" value="" style="endArrow=classic;html=1;rounded=0;fontSize=18;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="fodWNSY7NhRpLWuz4Wl4-66">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="613" y="2102.5" as="sourcePoint" />
+            <mxPoint x="593" y="2166" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fodWNSY7NhRpLWuz4Wl4-70" value="" style="endArrow=classic;html=1;rounded=0;fontSize=18;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="fodWNSY7NhRpLWuz4Wl4-67">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="587" y="2106.5" as="sourcePoint" />
+            <mxPoint x="593" y="2169" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fodWNSY7NhRpLWuz4Wl4-71" value="去除矛盾关系" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.networks;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="601" y="2146.5" width="63.93" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="fodWNSY7NhRpLWuz4Wl4-73" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=15;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="661.0000000000001" y="2166" as="sourcePoint" />
+            <mxPoint x="694.7500000000001" y="2166.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fodWNSY7NhRpLWuz4Wl4-74" value="该操作参数间依赖模型" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="696.07" y="2151" width="98" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fodWNSY7NhRpLWuz4Wl4-75" value="OpenAPI文档" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.recovery_plan;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="135" y="987" width="36.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fodWNSY7NhRpLWuz4Wl4-76" value="测试结果" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.vrealize_log_insight;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="355" y="1029" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
